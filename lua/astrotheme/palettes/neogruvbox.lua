@@ -4,7 +4,7 @@ local colors = {
   fg = "#ebdbb2",
   bg = "#282828",
   bg_1 = "#232323",
-  black = "#181a1f",
+  black = "#232323",
   black_1 = "#1f1f25",
   green = "#adb026",
   green_1 = "#89b06d",
@@ -14,16 +14,16 @@ local colors = {
   white_2 = "#c9c9c9",
   blue = "#83a598",
   blue_1 = "#40d9ff",
-  blue_2 = "#353535",
+  blue_2 = "#232323",
   blue_3 = "#8094B4",
   blue_4 = "#90c7f3",
-  orange = "#d65d0e",
+  orange = "#749689",
   orange_1 = "#ff9640",
   orange_2 = "#e78a4e",
   yellow = "#d79921",
   yellow_1 = "#ebae34",
   yellow_2 = "#d1b071",
-  red = "#e06c75",
+  red = "#dc4934",
   red_1 = "#ec5f67",
   red_2 = "#ffbba6",
   red_3 = "#cc626a",
@@ -33,7 +33,7 @@ local colors = {
   grey_1 = "#4b5263",
   grey_2 = "#777d86",
   grey_3 = "#282c34",
-  grey_4 = "#2c323c",
+  grey_4 = "#232323",
   grey_5 = "#3e4452",
   grey_6 = "#3b4048",
   grey_7 = "#5c5c5c",
@@ -43,9 +43,9 @@ local colors = {
   gold = "#e78a4e",
   cyan = "#749689",
   cyan_1 = "#5d554e",
-  purple = "#c678dd",
-  purple_1 = "#a9a1e1",
-  purple_2 = "#c2bdea",
+  purple = "#d3869b",
+  purple_1 = "#749689",
+  purple_2 = "#749689",
 
   -- icon colors
   c = "#519aba",
@@ -81,5 +81,6 @@ local colors = {
 }
 
 return colors
+
 
 
