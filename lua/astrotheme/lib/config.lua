@@ -1,7 +1,7 @@
 M = {}
 
 M.default = {
-  palette = "astrodark",
+  palette = "neogruvbox",
   termguicolors = true,
   terminal_colors = true,
   background = "dark",
@@ -9,10 +9,12 @@ M.default = {
   palettes = {
     global = {},
     astrodark = {},
+    neogruvbox = {},
   },
   highlights = {
     global = {},
     astrodark = {},
+    neogruvbox = {},
   },
 
   plugin_default = "auto",
